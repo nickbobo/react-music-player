@@ -1,0 +1,4 @@
+/node_modules
+/gallery-by-react/node_modules
+/react-music-player/node_modules
+.idea/workspace.xml
